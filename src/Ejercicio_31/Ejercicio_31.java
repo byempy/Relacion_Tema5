@@ -1,4 +1,4 @@
-package Relacion_Tema5_04;
+package Ejercicio_31;
 
 public class Ejercicio_31 {
 
